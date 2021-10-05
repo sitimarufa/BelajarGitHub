@@ -1,3 +1,4 @@
 # BelajarGitHub
 Mempelajari penggunaan github
-belajar kolaborasi github
+Belajar menjadi colaborator
+
